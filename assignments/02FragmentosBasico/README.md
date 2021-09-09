@@ -1,5 +1,5 @@
 ![Tec de Monterrey](../../images/logotecmty.png)
-# Display
+# Fragmentos de cadenas de caracteres
 Cadenas de caracteres-Fragmentos de cadenas básico
 
 Modifica el programa que se encuentra en la carpeta `src` que se llama `exercise.py` y que contiene el siguiente código:
