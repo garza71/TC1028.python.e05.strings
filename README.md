@@ -1,5 +1,5 @@
 ![Tec de Monterrey](images/logotecmty.png)
-# Ejercicios Básicos
+# Ejercicios con Strings
 
 - 02 Fragmentos básico - 20%
 - 03 Reversa básico - 20%
